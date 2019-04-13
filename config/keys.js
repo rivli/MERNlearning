@@ -1,3 +1,4 @@
 module.exports = {
-  mongoURI: "mongodb://localhost/mern"
+  mongoURI:
+    "mongodb+srv://ilvir:rivli@ilvir-7sgda.mongodb.net/test?retryWrites=true"
 };
